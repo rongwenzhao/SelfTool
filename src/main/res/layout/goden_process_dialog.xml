@@ -1,0 +1,13 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="160dip"
+    android:layout_height="70dip"
+    android:background="@drawable/shap_goden_dialog_view"
+    android:gravity="center">
+    <com.mygame.android.view.widget.CircleProcessView
+        android:layout_width="60dip"
+        android:layout_height="60dip"
+        android:layout_centerInParent="true"
+        android:id="@+id/circleView"/>
+
+</RelativeLayout>

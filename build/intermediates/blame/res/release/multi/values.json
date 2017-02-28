@@ -1,0 +1,194 @@
+[
+    {
+        "outputFile": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endColumn": 46,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 623
+                },
+                "from": {
+                    "file": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\values\\style.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1263,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 1785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 628,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 914
+                },
+                "from": {
+                    "file": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 919,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1074
+                },
+                "from": {
+                    "file": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1079,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 1781
+                },
+                "from": {
+                    "file": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\values\\style.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2319,
+                        "endLine": 58,
+                        "endColumn": 12,
+                        "endOffset": 3021
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1786,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 1941
+                },
+                "from": {
+                    "file": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\values\\style.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 3,
+                        "startOffset": 3030,
+                        "endLine": 63,
+                        "endColumn": 12,
+                        "endOffset": 3185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1946,
+                    "endLine": 42,
+                    "endColumn": 12,
+                    "endOffset": 2107
+                },
+                "from": {
+                    "file": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\values\\style.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 3192,
+                        "endLine": 68,
+                        "endColumn": 12,
+                        "endOffset": 3353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2112,
+                    "endLine": 46,
+                    "endColumn": 12,
+                    "endOffset": 2321
+                },
+                "from": {
+                    "file": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\values\\style.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 3363,
+                        "endLine": 73,
+                        "endColumn": 12,
+                        "endOffset": 3572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2326,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 2840
+                },
+                "from": {
+                    "file": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\values\\style.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1795,
+                        "endLine": 46,
+                        "endColumn": 12,
+                        "endOffset": 2309
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="12dp"
+    android:gravity="center"
+    android:layout_marginLeft="20dip"
+    android:layout_marginRight="20dip"
+    android:orientation="vertical" 
+    android:id="@+id/pop_layout"
+    >
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/i11"
+        android:layout_marginTop="10dip"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dip"
+            android:orientation="horizontal" 
+            android:id="@+id/ijnh"
+            >
+
+            <TextView
+                android:layout_width="40dip"
+                android:layout_height="40dip"
+                android:layout_marginLeft="20dip"
+                android:layout_marginTop="5dip"
+                android:background="@drawable/feedback_msg_state_fail_resend" />
+
+            <TextView
+                android:id="@+id/title"
+                android:textColor="#fff"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="处理人员"
+                android:layout_marginTop="5dip"
+                android:paddingLeft="8dip"
+                android:paddingRight="8dip" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="1px"
+            android:layout_marginLeft="5dip"
+            android:layout_marginRight="8dip"
+            android:background="#a7a7a7" />
+    </LinearLayout>
+	<LinearLayout 
+	    android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/i22"
+        
+	    >
+	    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="100dip"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dip" >
+
+        <GridView
+            android:id="@+id/gridview"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_below="@+id/ijnh"
+            android:gravity="center"
+            android:horizontalSpacing="15dp"
+            android:numColumns="4"
+            android:padding="10dp"
+            android:verticalSpacing="15dp" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="1px"
+            android:layout_marginLeft="5dip"
+            android:layout_marginRight="8dip"
+            android:background="#a7a7a7" />
+
+        <LinearLayout
+            android:layout_height="wrap_content"
+            android:layout_width="200dip"
+            android:layout_marginLeft="20dip"
+            android:layout_marginRight="20dip"
+            android:layout_gravity="center"
+            android:orientation="horizontal">
+			<Button
+                android:id="@+id/nativebutton"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dip"
+                android:layout_weight="1"
+                android:layout_marginLeft="5dip"
+                android:text="取消"
+                android:singleLine="true"
+                android:background="@drawable/style_dialog_btn_cancel"
+                android:textColor="@android:color/white" />
+
+        </LinearLayout>
+        
+    </LinearLayout>
+	</LinearLayout>
+	    <TextView 
+                android:background="@drawable/i33"
+        android:layout_width="fill_parent"
+            android:layout_height="25dip"
+        />
+</LinearLayout>

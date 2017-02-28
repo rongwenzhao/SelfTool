@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\debug\\drawable\\shap_goden_dialog_view.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\drawable\\shap_goden_dialog_view.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\debug\\drawable\\shap_dialog_botton2.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\drawable\\shap_dialog_botton2.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_dialog_btn_cancel.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\drawable\\style_dialog_btn_cancel.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_dialog_item.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\drawable\\selector_dialog_item.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_selector_de.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\drawable\\shape_selector_de.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\debug\\drawable\\shap_dialog.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\drawable\\shap_dialog.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\debug\\drawable\\shap_dialog_botton.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\drawable\\shap_dialog_botton.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\debug\\drawable\\shap_dialog_2.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\drawable\\shap_dialog_2.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_bg.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\drawable\\layout_bg.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\drawable\\selector_tab.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\debug\\drawable\\shap_dialog_item.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\drawable\\shap_dialog_item.xml"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\release\\layout\\time_layout.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\layout\\time_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\release\\layout\\dialog_select_item.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\layout\\dialog_select_item.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\release\\layout\\girdview_layout.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\layout\\girdview_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\release\\layout\\fragment_tablehost.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\layout\\fragment_tablehost.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\release\\layout\\date_picker_dialog_layout.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\layout\\date_picker_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\release\\layout\\goden_process_dialog.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\layout\\goden_process_dialog.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\release\\layout\\top_title.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\layout\\top_title.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\release\\layout\\fragment_tablehost_tab.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\layout\\fragment_tablehost_tab.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\release\\layout\\loading_dialog.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\layout\\loading_dialog.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\release\\layout\\dialog.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\release\\layout\\image_show.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\layout\\image_show.xml"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\release\\anim\\slide_bottom_in.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\anim\\slide_bottom_in.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\release\\anim\\popup_exit.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\release\\anim\\slide_top_out.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\anim\\slide_top_out.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\release\\anim\\popup_enter.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\anim\\popup_enter.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\release\\anim\\slide_right_in.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\anim\\slide_right_in.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\release\\anim\\slide_left_in.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\anim\\slide_left_in.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\release\\anim\\slide_left_out.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\anim\\slide_left_out.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\build\\intermediates\\res\\merged\\release\\anim\\slide_right_out.xml",
+        "source": "E:\\StudioProjects\\lobby_524\\com.mygame.android\\src\\main\\res\\anim\\slide_right_out.xml"
+    }
+]
